@@ -1,2 +1,2 @@
 # sumario2
-https://natalich.github.io/p1/
+https://natalich.github.io/sumario2/
